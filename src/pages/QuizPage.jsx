@@ -53,7 +53,6 @@ export default function QuizPage() {
   };
 
   const showEarlySubmitButton = questionCount > 10 && currentIndex >= 14;
-
   const handleEarlySubmit = () => {
     setShowSubmitConfirm(true);
   };
@@ -135,17 +134,6 @@ export default function QuizPage() {
         )}
 
         <div className="flex gap-3 mt-8">
-          {!hasSelected && (
-            <button
-              onClick={handleCancel}
-              className="flex-1 py-3 px-4 rounded-xl bg-slate-700 hover:bg-slate-600 
-                border border-slate-600 text-white font-medium 
-                transition-all duration-200 hover:border-slate-500"
-            >
-              Cancel
-            </button>
-          )}
-          {hasSelected && (
             <button
               onClick={handleBack}
               disabled={isFirst}
@@ -155,7 +143,6 @@ export default function QuizPage() {
             >
               Back
             </button>
-          )}
           <button
             onClick={handleNext}
             className="flex-1 py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-500 

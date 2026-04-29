@@ -35,8 +35,8 @@ export default function ResultPage() {
   };
 
   const handleTryAgain = () => {
-    goBackToLengthSelection();
     navigate('/choose-attempts');
+    goBackToLengthSelection();
   };
 
   return (

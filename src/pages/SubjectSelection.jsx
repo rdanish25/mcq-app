@@ -20,7 +20,7 @@ export default function SubjectSelection() {
       </div>
 
       <div className="grid gap-4 w-full max-w-md">
-        {subjectList.map((subject) => (
+        {subjectList.map((subject, idx) => (
           <button
             key={subject.id}
             onClick={() => handleSubjectClick(subject.id)}
@@ -30,7 +30,14 @@ export default function SubjectSelection() {
               transition-all duration-300 hover:scale-[1.02] hover:shadow-lg hover:shadow-emerald-500/10 
               focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900"
           >
-            {subject.name}
+            <span className="w-full flex items-center justify-between gap-3">
+              <span>{subject.name}</span>
+              {idx === subjectList.length - 1 && (
+                <span className="shrink-0 px-2.5 py-1 rounded-full text-xs font-bold tracking-wide bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">
+                  NEW
+                </span>
+              )}
+            </span>
           </button>
         ))}
       </div>
