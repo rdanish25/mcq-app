@@ -2,6 +2,28 @@ import { createContext, useContext, useState, useEffect } from 'react';
 
 const QuizContext = createContext();
 
+function shuffleInPlace(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function randomizedQuestion(question) {
+  const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+  const shuffledOptions = shuffleInPlace(question.options.map((o) => ({ ...o })));
+
+  return {
+    ...question,
+    options: shuffledOptions.map((o, idx) => ({
+      ...o,
+      // Re-label so the correct option's letter becomes random
+      id: letters[idx] ?? String(idx + 1),
+    })),
+  };
+}
+
 export function QuizProvider({ children }) {
   const [subjects, setSubjects] = useState({});
   const [selectedSubject, setSelectedSubject] = useState(null);
@@ -32,8 +54,8 @@ export function QuizProvider({ children }) {
     if (!subjectData) return;
 
     const allQuestions = [...subjectData.questions];
-    const shuffled = allQuestions.sort(() => Math.random() - 0.5);
-    const selected = shuffled.slice(0, count);
+    const shuffledQuestions = shuffleInPlace(allQuestions);
+    const selected = shuffledQuestions.slice(0, count).map(randomizedQuestion);
 
     setQuestionCount(count);
     setCurrentQuestions(selected);
