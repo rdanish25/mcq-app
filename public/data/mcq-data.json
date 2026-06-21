@@ -17266,6 +17266,4172 @@
           ]
         }
       ]
-    }
+    },
+      "uzbek_language": {
+        "id": "uzbek_language",
+        "name": "Uzbek Language",
+        "questions": [
+          {
+            "id": "1",
+            "text": "What is the correct Uzbek medical term for \"wheezing\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Xirillash",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Sayoz nafas",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Aksirish",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Burun bitishi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "text": "What do the clinical signs \"tomoq qizarishi\" and \"ovoz bo‘g‘ilishi\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Throat redness and hoarse voice",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Nasal congestion and runny nose",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Productive cough and chest pain",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Rapid breathing and wheezing",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "text": "Which Uzbek word translates to the \"flu\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Astma",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Gripp",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Shamollash",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Pnevmoniya",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "text": "What is the Uzbek phrase for a \"productive (wet) cough\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Nafas qisilishi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Quruq yo‘tal",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Balg‘amli yo‘tal",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Sayoz nafas",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "text": "How should a doctor ask a patient \"Is it difficult to breathe?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Buruningiz bitganmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Nafas olish qiyinmi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Sizda allergiya bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Isitmangiz bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "text": "When a doctor asks: \"Qachondan beri yo‘talayapsiz?\", what are they asking?",
+            "options": [
+              {
+                "id": "A",
+                "text": "How long have you been coughing?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Where is your chest pain located?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Do you have a secondary fever?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Do you have a productive cough?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "text": "Translate the patient's statement: \"Uch kundan beri yo‘talayapman va ko‘kragim og‘riyapti.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I have a runny nose and I am sneezing.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I do not have a cough, but breathing is hard.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have a severe headache and a high fever.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I have been coughing for three days and my chest hurts.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "text": "Which clinical commands mean \"Inhalation... Exhalation\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Tez nafas... Sekin nafas",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Nafas olish... Nafas chiqarish",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Quruq yo‘tal... Balg‘amli yo‘tal",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Chuqur nafas... Sayoz nafas",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "text": "What symptoms is a patient describing if they say: \"Burunim bitgan va tez-tez aksiraman\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "High fever and a severe productive cough.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sharp chest pain when taking a deep breath.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "A blocked nose and frequent sneezing.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Shortness of breath and wheezing in the lungs.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "text": "How do you ask a patient \"Do you have a fever?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Ko‘krangingiz og‘riyaptimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Nafas olganda og‘riq bo‘ladimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Isitmangiz bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Balg‘am chiqayaptimi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "text": "What is the correct Uzbek medical term for \"tuberculosis\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Bronxit",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sil kasalligi",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Shamollash",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Pnevmoniya",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "text": "Which phrase translates to \"airborne transmission\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Rentgen tekshiruvi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Havo orqali yuqish",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Respirator infeksiya",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Balg‘am tahlili",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "text": "What do the constitutional symptoms \"charchoq\" and \"vazn yo‘qotish\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Fever and night sweats",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Fatigue and weight loss",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Persistent cough and phlegm",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Sore throat and sneezing",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "text": "What is the Uzbek phrase for a \"sputum test\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Balg‘am tahlili",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Maxsus dorilar",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "O‘pkani eshitish",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Rentgen tekshiruvi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "text": "How does a doctor ask a patient \"Do you sweat at night?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Isitmangiz bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Ko‘kragingiz og‘riyaptimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Kechasi terlaysizmi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Vazningiz kamayganmi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "text": "Translate this common patient complaint: \"Menda uzoq davom etgan yo‘tal bor.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I have a dry cough.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I have a persistent cough.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "I have shortness of breath.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I have a productive cough.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "text": "When a doctor asks: \"Sizda qanday shikoyatlar bor?\", what are they asking?",
+            "options": [
+              {
+                "id": "A",
+                "text": "What complaints do you have?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Is your cough dry or productive?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "How long have you been coughing?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Have you been in contact with a tuberculosis patient?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "text": "Translate the patient's statement: \"So‘nggi paytda vaznim kamaydi va men tez charchayman.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Recently I lost weight and I get tired quickly.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "My nose is blocked and I am sneezing.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have chest pain and breathing is difficult.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "For two weeks I have had a fever and a sore throat.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "text": "How should a doctor ask a patient if their cough is dry or wet/productive?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qachondan beri yo‘talayapsiz?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Yo‘tal quruqmi yoki balg‘amlimi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Siz juda charchayapsizmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Nafas olish qiyinmi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "text": "What is a doctor investigating by asking: \"Siz sil kasalligi bilan kasallangan odam bilan aloqada bo‘lganmisiz?\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "If the patient experiences chest pain during inhalation.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "If the patient has ever had an X-ray test before.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "If the patient has been in contact with a tuberculosis patient.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "If the patient takes their medications for several months.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "text": "What is the correct Uzbek medical term for \"dizziness\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Uyqusizlik",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Hushdan ketish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Bosh aylanishi",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Bosh og‘rig‘i",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "text": "What do the neurological signs \"qo‘l uvishishi\" and \"oyoq uvishishi\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Vision problems and speech problems",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Loss of balance and tremors",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Arm numbness and leg numbness",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Headache and dizziness",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "text": "Which Uzbek word translates to \"reflex\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Muvozanat",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sezgi",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Harakat",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Refleks",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "text": "What is the Uzbek phrase for \"loss of balance\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Ko‘rish buzilishi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Xotira muammosi",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Muvozanat yo‘qolishi",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Nutq buzilishi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "text": "How should a doctor ask a patient \"Have you ever fainted?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Siz hushdan ketganmisiz?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Bosh aylanishi bo‘ladimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Xotira bilan muammo bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Siz tez-tez charchaysizmi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "text": "When a doctor asks: \"Bosh og‘rig‘i qachondan beri bor?\", what are they asking?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Is there numbness in your arms or legs?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "How long have you had a headache?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Do you experience dizziness?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Is it difficult to maintain balance?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "text": "Translate this common patient complaint: \"Qo‘limda va oyoqlarimda uvishish sezaman.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "My speech becomes difficult occasionally.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "My vision gets blurry sometimes.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I frequently suffer from a severe headache.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I feel numbness in my arm and my legs.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "text": "Translate the doctor's initial greeting: \"Assalomu alaykum. Sizni nima bezovta qilmoqda?\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Hello. Do you have any numbness in your limbs?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Hello. I will perform a neurological exam.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Hello. Since when do you have this pain?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Hello. What is bothering you?",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "text": "What symptoms is a patient describing if they say: \"Muvozanatni saqlash qiyin va xotiram biroz yomonlashgan\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "I get tired quickly and my arm goes numb.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I have frequent dizziness and I sometimes faint.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "It is hard to keep balance and my memory has worsened a bit.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "I have trouble speaking and my vision is blurry.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "text": "How do you ask a patient \"Do you have problems with your speech?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qo‘llaringizda yoki oyoqlaringizda uvishish bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Bosh og‘rig‘i qachondan beri bor?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Nutq bilan bog‘liq muammolar bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Ko‘rish bilan bog‘liq muammolar bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "text": "What is the correct Uzbek medical term for \"irregular heartbeat\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qon bosimi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Yurak tez urishi",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Yurak sekin urishi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Yurak notekis urishi",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "text": "What does the clinical sign \"oyoqlarda shish\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Swelling in legs",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Shortness of breath",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Dizziness and fainting",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Chest pain",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "text": "Which Uzbek phrase means \"to measure blood pressure\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Yurakni eshitish",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Pulsni tekshirish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Qon bosimini o‘lchash",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "EKG tekshiruvi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "text": "What lifestyle modification does the Uzbek phrase \"tuzni kamaytirish\" refer to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Quit smoking",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Reduce salt",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Reduce fatty food",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Reduce stress",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "text": "How should a doctor ask a patient \"Is your chest hurting?\" or check for chest pain in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qachondan beri yo‘talayapsiz?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Ko‘krangingiz og‘riyaptimi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Buruningiz bitganmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Isitmangiz bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "text": "When a doctor says to a patient: \"Siz chekishni tashlashingiz kerak,\" what advice are they giving?",
+            "options": [
+              {
+                "id": "A",
+                "text": "You must quit smoking.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "You need to exercise daily.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "You must reduce fatty food.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "You need to reduce salt intake.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "text": "Translate this patient's clinical complaint: \"Menda nafas qisilishi va charchoq bor.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I have a rapid heartbeat and dizziness.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I have severe chest pain when walking.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have shortness of breath and fatigue.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "I experience an irregular heartbeat and fainting.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "text": "What procedure is the doctor performing if they state: \"Men stetoskop yordamida yurakni eshitaman\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "I am checking the pulse rate manually.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I am listening to the heart using a stethoscope.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "I am performing an ECG examination.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I am measuring the blood pressure level.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "text": "What counseling is a doctor providing when they say: \"Yurak uchun har kuni yurish yoki sport bilan shug‘ullanish tavsiya etiladi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "You must eat more fruits and vegetables every day.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Reducing salt and fatty foods is necessary for health.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Daily walking or exercising is recommended for the heart.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Quitting smoking has a positive effect on your body.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "text": "How should a doctor ask a patient if they have a rapid heartbeat in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Oyoqlarda shish bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Pulsingiz yaxshimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Bosh aylanishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Yuragingiz tez uradimi?",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "text": "What is the correct Uzbek medical term for \"jaundice\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Shish",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Qichishish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Sariqlik",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Charchoq",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "text": "What do the gastrointestinal clinical signs \"ko‘ngil aynishi\" and \"qusish\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Dark urine and light stool",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Abdominal pain and weakness",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Nausea and vomiting",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Loss of appetite and fever",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "text": "Which Uzbek term stands for the physiological process of \"digestion\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Zararli moddalarni chiqarish",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "O‘t suyuqligi",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Hazm qilish",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Modda almashuvi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "text": "What diagnostic imaging procedure does the abbreviation \"UZI\" refer to in Uzbek medical practice?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qon tahlili",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Ultratovush tekshiruvi",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Rentgen tekshiruvi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Kasallik tarixi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "text": "How should a doctor ask a patient \"Where is the pain?\" in Uzbek during a physical examination?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Ko‘ngil aynishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Og‘riq qayerda?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Qachondan beri?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Isitma bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "text": "When a doctor says: \"Spirtli ichimliklardan saqlaning,\" what clinical advice are they giving the patient?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Avoid alcohol",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Avoid fatty food",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Eat healthy food",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Drink more water",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "text": "Translate this patient's clinical complaint: \"Mening ko‘nglim ayniyapti va menda ishtaha yo‘q.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I have abdominal pain and I feel tired.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "My urine is dark and my legs are swelling.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I experience weakness and yellow skin.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I feel nauseous and I have no appetite.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "text": "What diagnostic manual examination is the doctor describing when they write: \"Shifokor qorin sohasini paypaslab ko‘radi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor palpates the abdominal area.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "The doctor orders an ultrasound test.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "The doctor listens to the patient's complaints.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The doctor checks the patient's blood test.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "text": "Translate this primary directive from a hepatic counseling slide: \"Yog‘li va qovurilgan ovqatlarni kamaytirish kerak.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "It is necessary to reduce fatty and fried foods.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Medications must be taken only with a doctor's recommendation.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Drinking a sufficient amount of water is very important.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "It is beneficial to eat more fruits and vegetables.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "text": "How should a doctor ask a patient if they have a fever in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Isitmangiz bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Qachondan beri og‘riq bor?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Ishtahangiz yaxshimi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "51",
+            "text": "What is the correct Uzbek medical term for \"heartburn\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qorin spazmlari",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Jig‘ildon qaynashi",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Hazm buzilishi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qorin dam bo‘lishi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "text": "What do the gastrointestinal symptoms \"qabziyat\" and \"diareya\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Loss of appetite and early satiety",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Nausea and vomiting",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Bloating and gas",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Constipation and diarrhea",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "text": "Which Uzbek phrase refers to the medical diagnostic procedure \"endoscopy\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Najas tahlili",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Jismoniy tekshiruv",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Endoskopiya",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Paypaslash",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "54",
+            "text": "What type of medication does the Uzbek word \"tabletka\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Tablet",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Syrup",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Capsule",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Antacid",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "text": "How should a doctor ask a patient \"What is bothering you?\" in Uzbek at the start of a consultation?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qorin og‘rig‘i bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Ishtahangiz yaxshimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Og‘riq qayerda?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "text": "When a doctor tells a patient: \"Gazli ichimliklar va fast foodni cheklash kerak,\" what advice are they giving?",
+            "options": [
+              {
+                "id": "A",
+                "text": "It is recommended to avoid spicy and fried foods completely.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "It is necessary to limit carbonated drinks and fast food.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "It is necessary to eat small amounts of food frequently.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "It is beneficial to drink more water and rest well.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "text": "Translate this common patient complaint: \"Menda oshqozon og‘rig‘i va jig‘ildon qaynashi bor.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I have abdominal discomfort and nausea.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I have stomach pain and heartburn.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "I suffer from indigestion and a loss of appetite.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I experience bloating and gas accumulation.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "text": "What symptom is a patient describing if they state: \"Ovqatdan keyin qornim dam bo‘ladi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "My stomach gets bloated after eating.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "I experience early satiety during meals.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I feel a burning sensation after eating.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I feel nauseous and vomit after eating.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "text": "Translate this diagnostic action statement from a clinical slide: \"Shifokor qorin sohasini paypaslaydi va endoskopiya tavsiya qiladi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor conducts a physical exam and orders a stool test.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The doctor prescribes an antacid and adjusts the drug dosage.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "The doctor palpates the abdominal area and recommends an endoscopy.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "The doctor checks the test results for a suspected gastric ulcer.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "text": "How should a doctor ask a patient if they have a stomach ache or pain in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qachondan beri og‘riq bor?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Ichingiz ketyaptimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Oshqozoningiz og‘riyaptimi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Ko‘nglingiz ayniyaptimi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "text": "What is the correct Uzbek medical term for \"black stool\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Najasda qon",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Najasda shilliq modda",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Suyuq najas",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qora najas",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "text": "What do the intestinal red flag symptoms \"vazn yo‘qotish\" and \"kamqonlik\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Severe abdominal pain and fever",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Constipation and diarrhea",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Bloating and flatulence",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Weight loss and anemia",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "text": "Which Uzbek phrase refers to the physiological \"absorption of nutrients\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Ich kelishi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Chiqindilarni chiqarish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Hazm jarayoni",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Ozuqa moddalarning so‘rilishi",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "text": "What clinical sign does the Uzbek phrase \"qorin spazmi\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Frequent bowel movement",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Abdominal cramping",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Abdominal tenderness",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Incomplete evacuation",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "65",
+            "text": "How should a doctor ask a patient \"When should you go to the doctor?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qachon shifokorga borish kerak?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Qon bo‘lsa, bu xavflimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Sizda qorin og‘rig‘i bo‘lganmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Najasning rangi qanday?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "text": "When a doctor determines that a patient has \"suvsizlanish belgilari,\" what have they identified?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Signs of dehydration",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Symptoms of internal bleeding",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Complete waste elimination",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Severe abdominal tenderness",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "text": "Translate this patient's urgent complaint: \"Mening najasımda qon bor va qornim qattiq og‘riyapti.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I have a loose stool and minor abdominal cramping.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I have had constipation and no bowel movement for three days.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I experience flatulence and an incomplete evacuation feeling.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "There is blood in my stool and my stomach hurts severely.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "text": "What critical emergency presentation is a doctor describing when they write: \"Bu ichki qon ketishini ko‘rsatishi mumkin\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "This points to normal nutrient absorption.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "This may indicate internal bleeding.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "This shows a complete recovery from infection.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "This indicates a standard case of diarrhea.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "text": "Translate this definitive triage decision from the clinical text: \"Shifokor bu holatni juda jiddiy deb baholab, darhol tekshiruvni boshladi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor scheduled a routine checkup for the following week.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The doctor noted that the intestinal symptoms were completely normal.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "The doctor assessed this condition as very serious and started the examination immediately.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "The doctor advised the patient to rest at home and drink clear fluids.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "text": "How should a doctor ask a patient if they have blood in their stool in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qorinda spazm bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Ich kelishi yaxshimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Bosh aylanishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Najasda qon bormi?",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "text": "What is the correct Uzbek medical term for \"painful urination\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Siydikda qon",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Tez-tez siyish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Siydik kamayishi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Og‘riqli siyish",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "text": "What do the renal clinical signs \"loyqa siydik\" and \"kuchli hidli siydik\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Cloudy urine and strong urine smell",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Blood in urine and reduced urine output",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "High blood pressure and fatigue",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Lower back pain and swelling",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "text": "Which Uzbek phrase refers to the medical condition \"acute kidney failure\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Siydik tizimi infeksiyasi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Buyrak toshi kasalligi",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "O‘tkir buyrak yetishmovchiligi",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Surunkali buyrak kasalligi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "74",
+            "text": "What critical renal red flag symptom does the phrase \"siydik chiqmasligi\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Severe flank pain",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Complete absence of urine",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "High blood pressure",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Swelling (edema)",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "text": "How should a doctor ask a patient \"Have you had kidney pain?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Isitmangiz bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sizda buyrak og‘riq bo‘lganmi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Siydik o‘zgarishi xavflimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qachon shifokorga borish kerak?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "text": "When a doctor asks a patient: \"Sizda bel og‘rig‘i yoki yon tomonda og‘riq bormi?\", what areas are they asking about?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Lower back pain or pain in the side",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Arm numbness or leg numbness",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Headache or dizziness",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Severe chest pain or abdominal pain",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "text": "Translate this urgent emergency case complaint: \"Bemor oxirgi ikki kun ichida deyarli siydik ajratmagan.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "The patient has produced almost no urine in the last two days.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "The patient experienced high blood pressure and sudden swelling.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "The patient has had a high creatinine level for two weeks.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The patient has suffered from severe flank pain for two days.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "text": "What procedure is the doctor preparing for if they state: \"Shifokor darhol dializga tayyorlashni boshladi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor immediately checked the fluid balance.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The doctor immediately started preparing for dialysis.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "The doctor immediately measured the blood pressure.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The doctor immediately ordered a routine blood test.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "79",
+            "text": "What clinical finding is identified when a doctor writes: \"Ko‘rik vaqtida shifokor bemorda shish va yuqori qon bosimini aniqladi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "During the examination, the doctor diagnosed acute kidney failure.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "During the examination, the doctor discovered an elevated creatinine level.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "During the examination, the doctor found swelling and high blood pressure.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "During the examination, the doctor noted severe fatigue and holsizlik.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "text": "How should a doctor ask a patient if they have blood in their urine in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Siydik kamayganmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Tez-tez siyish bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Siydikda qon bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Og‘riqli siyish bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "text": "What is the correct Uzbek medical term for \"thyroid gland\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Modda almashuvi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Qalqonsimon bez",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Gormon darajasi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Endokrin tizim",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "82",
+            "text": "What do the endocrine clinical symptoms \"vazn ortishi\" and \"vazn kamayishi\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sensitivity to cold and sensitivity to heat",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Irritability and insomnia",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Hair loss and dry skin",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Weight gain and weight loss",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "text": "Which Uzbek term stands for the medical condition \"hyperthyroidism\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Gipotiroidizm",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Gipertireoz",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Gormonal muvozanat buzilishi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qalqonsimon bez kattalashuvi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "text": "What clinical sign does the Uzbek phrase \"qo‘llarda titroq\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Redness in the throat",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Tremor in the hands",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Swelling in the legs",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Numbness in the arms",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "text": "How should a doctor ask a patient \"Do you have a hormonal problem?\" or ask about hormonal issues in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Diqqatni jamlash qiyinmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Gormonal muammolar bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Sog‘lom turmush tarzi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qon tahlili tayyormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "text": "When a doctor says to a patient: \"Siz muntazam nazoratda bo‘lishingiz kerak,\" what instructions are they giving?",
+            "options": [
+              {
+                "id": "A",
+                "text": "You need to be under regular monitoring.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "You must take your medication daily.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "You must change your treatment plan.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "You need to get an ultrasound exam immediately.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "text": "Translate this patient's clinical complaint: \"Menda asabiylik, uyqusizlik va tez charchash bor.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I experience weight gain, sweating, and hair loss.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I suffer from sensitivity to cold and a lack of concentration.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have irritability, insomnia, and easy fatigue.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "I have a rapid heartbeat, dry skin, and a headache.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "text": "What symptom is a patient describing if they state: \"Men issiqqa juda sezuvchanman va ko‘p terlayman\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "I am very sensitive to heat and I sweat a lot.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "My thyroid gland is enlarged and my throat hurts.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I am highly sensitive to cold and my skin is dry.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "My heart beats rapidly and I cannot sleep at night.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "text": "Translate this diagnostic workflow description from the endocrine text: \"Shifokor qon tahlili va ultratovush tekshiruvi o‘tkazadi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor evaluates the hormone level and prescribes medication.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The doctor conducts a blood test and an ultrasound examination.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "The doctor confirms the diagnosis and creates a treatment plan.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The doctor refers the patient directly to an endocrinologist.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "text": "How should a doctor ask a patient if they have noticed weight gain in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Gormon darajasi yuqorimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sizda vazn ortishi kuzatildimi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Siz sovuqqa sezuvchanmisiz?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Soch to‘kilishi bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "91",
+            "text": "What is the correct Uzbek medical term for \"pancreas\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Glyukoza darajasi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Qalqonsimon bez",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Oshqozon osti bezi",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Qon shakari",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "92",
+            "text": "What do the diabetic clinical symptoms \"chanqash\" and \"ochlik\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Frequent urination and blurred vision",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Thirst and hunger",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Fatigue and weight loss",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Slow wound healing and dizziness",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "text": "Which Uzbek phrase refers to a \"blood sugar\" measurement?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Insulin yetishmovchiligi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Insulin qarshiligi",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Och qoringa tahlil",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qon shakari",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "text": "What clinical presentation does the Uzbek phrase \"yaralarning sekin bitishi\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Weight loss",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Slow wound healing",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Frequent urination",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Blurred vision",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "95",
+            "text": "How should a doctor ask a patient \"Do you have diabetes?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sizda qandli diabet bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Glyukoza darajasi yuqorimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "HbA1c testi tayyormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Insulin yuborish kerakmi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "96",
+            "text": "When a doctor tells a patient: \"Siz hayot tarzini o‘zgartirishingiz juda muhim,\" what are they advising?",
+            "options": [
+              {
+                "id": "A",
+                "text": "It is necessary to take your medications daily.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "It is very important that you change your lifestyle.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "You must control your blood sugar level.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "You need to follow a strict diet plan.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "text": "Translate this classic diabetic presentation complaint: \"Bemorlar odatda chanqash, charchoq va ko‘rish xiralashishini sezadi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Patients usually notice thirst, fatigue, and blurred vision.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Patients frequently complain of hunger, weight loss, and sweating.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Patients typically experience frequent urination and slow healing.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Patients always suffer from insulin resistance and high glucose.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "text": "What test is a doctor describing if they say: \"Bu test bemorning so‘nggi bir necha oy ichidagi glyukoza darajasini ko‘rsatishi mumkin\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "This test can show the patient's glucose level over the last few months.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "This test can check the insulin deficiency in the pancreas immediately.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "This test measures the blood sugar level on an empty stomach.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "This test evaluates the patient's daily physical activity level.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "text": "Translate this treatment plan summary from the clinical presentation: \"Davolash parhez, jismoniy faollik va dorilar yordamida amalga oshiriladi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Treatment requires controlling sugar intake and losing excess weight.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Treatment focuses primarily on lifestyle monitoring and insulin injections.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Treatment demands regular blood tests and healthy eating choices.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Treatment is carried out with the help of diet, physical activity, and medications.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "text": "How should a doctor ask a patient if they experience frequent urination in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Tez-tez siyish bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Kuchli chanqash bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Doimiy ochlik bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Vazn yo‘qotish bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "101",
+            "text": "What is the correct Uzbek medical term for \"pale skin\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Rang oqarishi",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Ko‘karish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Qon ketishi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Bosh aylanishi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "102",
+            "text": "What do the hematological terms \"eritrotsit\" and \"leykotsit\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Platelet and hemoglobin",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Red blood cell and white blood cell",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Anemia and leukemia",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Plasma and blood clot",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "103",
+            "text": "Which Uzbek phrase refers to the medical procedure of a \"blood transfusion\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qon quyish",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Qon tahlili",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Tashxis qo‘yish",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Shifokor nazorati",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "text": "What clinical presentation does the Uzbek word \"ko‘karish\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Bleeding",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Fatigue",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Dizziness",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Bruising",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "105",
+            "text": "How should a doctor ask a patient \"What is bothering you?\" in Uzbek to start the hematology interview?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Gemoglobin darajasi pastmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Qon tahlili tayyormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qachondan beri charchoq bor?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "106",
+            "text": "When a doctor tells a patient: \"Sizda gemoglobin darajasi past,\" what are they explaining?",
+            "options": [
+              {
+                "id": "A",
+                "text": "You need a blood transfusion.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Your test results are ready.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Your hemoglobin level is low.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Your red cell count is normal.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "107",
+            "text": "Translate this common patient complaint from a blood disorder slide: \"Men doimiy charchoq va bosh aylanishini sezyapman.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I notice unusual bruising and bleeding from my gums.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I feel very weak and my skin is getting pale.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have severe shortness of breath and a rapid heartbeat.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I am feeling constant fatigue and dizziness.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "108",
+            "text": "What diagnostic test is a doctor describing if they say: \"Biz eritrotsitlar sonini tekshirishimiz kerak\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "We need to monitor the bleeding time.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "We must evaluate the white blood cells.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "We must start the treatment immediately.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "We need to check the red cell count.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "109",
+            "text": "Translate this case description from the hematology presentation: \"Shifokor tahlil natijasini ko‘rib, anemiyaga shubha qildi va dori vositalari yozdi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor checked the patient's pale skin and adjusted the drug dosage.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The doctor confirmed a serious infection and started medical supervision.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "The doctor saw the test result, suspected anemia, and prescribed medications.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "The doctor ordered a blood test, diagnosed leukemia, and recommended a transfusion.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "110",
+            "text": "How should a doctor ask a patient if they have noticed any abnormal bleeding in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Rang oqarishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Qon ketishi bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Ko‘karishlar bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Nafas qisilishi bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "111",
+            "text": "What is the correct Uzbek medical term for a \"malignant tumor\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Yaxshi sifatli o‘sma",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "O‘sma hujayralari",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Nazoratsiz o‘sish",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Yomon sifatli o‘sma",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "text": "What do the oncological clinical signs \"ishtaha yo‘qolishi\" and \"umumiy holsizlik\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Weight gain and severe pain",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Tumor-related bleeding and fever",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Loss of appetite and general weakness",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Swelling and tumor growth",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "113",
+            "text": "Which Uzbek term refers to the medical diagnostic procedure \"biopsy\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Biopsiya",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Tasviriy tekshiruv",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Jarrohlik",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Kimyoterapiya",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "114",
+            "text": "What oncological treatment modality does the Uzbek word \"jarrohlik\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Diagnosis",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Surgery",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Chemotherapy",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Radiotherapy",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "115",
+            "text": "How should a doctor ask a patient \"What is bothering you?\" in Uzbek at the start of an oncology consultation?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "O‘sma kattalashganmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Davolash rejasi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Og‘riq qayerda joylashgan?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "116",
+            "text": "When a doctor tells a patient: \"Biz biopsiya tekshiruvi o‘tkazishimiz kerak,\" what are they explaining?",
+            "options": [
+              {
+                "id": "A",
+                "text": "We have to change the treatment plan.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "We need to perform a biopsy examination.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "We need to schedule an imaging test.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "We must begin surgery immediately.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "117",
+            "text": "Translate this patient's clinical complaint: \"Menda doimiy og‘riq va tez vazn yo‘qotish bor.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I notice a large swelling and tumor-related bleeding.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I experience general weakness and a loss of appetite.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have constant pain and rapid weight loss.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "I suffer from a high fever and a cough.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "118",
+            "text": "What diagnostic step is a doctor explaining if they say: \"Shifokor o‘smaning o‘lchamini aniqlash uchun MRT yoki KT tavsiya qiladi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor prescribes chemotherapy or radiotherapy to stop cell growth.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The doctor recommends an MRI or CT to determine the size of the tumor.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "The doctor performs a physical exam to check for general weakness.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The doctor schedules an immediate surgery to remove the malignant tumor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "119",
+            "text": "Translate this oncology treatment overview statement: \"Davolash jarrohlik, kimyoterapiya yoki radioterapiyani o‘z ichiga oladi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Treatment includes surgery, chemotherapy, or radiotherapy.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Diagnosis requires biopsy, imaging examination, or X-ray.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Counseling focuses on a healthy lifestyle and pain management.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Monitoring involves regular blood tests and tumor checkups.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "120",
+            "text": "How should a doctor ask a patient if they have pain in the stomach area in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Vazn kamayishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Oshqozonda og‘riq bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Ishtahangiz yaxshimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "O‘pka o‘smasi bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "121",
+            "text": "What is the correct Uzbek medical term for \"skin rash\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Ko‘z yoshlanishi",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Tomoq og‘rig‘i",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Burun oqishi",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Terida toshma",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "122",
+            "text": "What do the allergy symptoms \"qichishish\" and \"shish\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sneezing and coughing",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Itching and swelling",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Difficulty breathing and hoarseness",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Redness and watery eyes",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "123",
+            "text": "Which Uzbek phrase refers to an \"allergic reaction\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Og‘ir reaksiya",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Yengil reaksiya",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Allergenni aniqlash",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Allergik reaksiya",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "124",
+            "text": "What critical, life-threatening condition does the Uzbek medical term \"anafilaksiya\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Drug allergy",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Anaphylaxis",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Food allergy",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Seasonal allergy",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "text": "How should a doctor ask a patient \"Do you have an allergy?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Tashxis qo‘yish kerakmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Dori qabul qilasizmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Sizda allergiya bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Buruningiz bitganmi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "126",
+            "text": "When a doctor says to a patient: \"Biz allergenni aniqlashimiz kerak,\" what are they explaining?",
+            "options": [
+              {
+                "id": "A",
+                "text": "We must give you antihistamines.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "We need to perform a skin test.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "We must treat this severe reaction.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "We need to identify the allergen.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "127",
+            "text": "Translate this classic allergy presentation complaint: \"Bahorda menda doim aksirish va burun oqishi bo‘ladi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "In summer I usually get watery eyes and difficulty breathing.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "In spring I always experience a skin rash and itching.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "In winter I frequently suffer from a cough and throat redness.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "In spring I always have sneezing and a runny nose.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "128",
+            "text": "What symptom is a patient describing if they state: \"Menda nafas olish qiyinlashishi va ovoz xirillashi bor\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "I experience a blocked nose and a severe cough.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "My eyes are watering and my skin is red.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have difficulty breathing and hoarseness.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "My face is swelling and my blood pressure is low.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "129",
+            "text": "Translate this emergency clinical observation from the allergy presentation text: \"Yuz yoki tomoq shishishi juda xavfli holat hisoblanadi.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Swelling of the face or throat is considered a very dangerous condition.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "A mild reaction can quickly turn into a severe allergic response.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Insect stings can cause an immediate drop in blood pressure.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Identifying the allergen is the most important step in prevention.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "130",
+            "text": "How should a doctor ask a patient if they experience itching in their eyes in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Ko‘z yoshlanishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Terida toshma bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Ko‘z qichishishi bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Burun bitishi bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "131",
+            "text": "What is the correct Uzbek medical term for \"food poisoning\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Gazdan zaharlanish",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Dori bilan zaharlanish",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Kimyoviy modda",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Oziq-ovqatdan zaharlanish",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "132",
+            "text": "What do the emergency clinical signs \"hush yo‘qolishi\" and \"nafas olish qiyinlashishi\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Abdominal pain and diarrhea",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Nausea and vomiting",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Headache and dizziness",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Loss of consciousness and difficulty breathing",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "133",
+            "text": "Which Uzbek phrase refers to the clinical management step of \"first aid\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Birinchi yordam",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Oshqozonni tozalash",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Noto‘g‘ri doza",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qon tekshiruvi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "134",
+            "text": "What clinical symptom does the Uzbek word \"holsizlik\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sweating",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Change in skin color",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Rapid breathing",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Weakness",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "text": "How should a doctor ask a patient \"What is bothering you?\" in Uzbek at the beginning of an emergency interview?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Oshqozonni tozalash kerakmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Tahlil o'tkazish tayyormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Sizda dori bilan zaharlanish bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "136",
+            "text": "When a doctor says to a patient: \"Biz zaharli moddani aniqlashimiz kerak,\" what are they explaining?",
+            "options": [
+              {
+                "id": "A",
+                "text": "We need to perform a urine test immediately.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "We need to identify the toxic substance.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "We have to clear your stomach layout.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "We must give you first aid right now.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "137",
+            "text": "Translate this common patient complaint from a toxicology presentation slide: \"Men o‘zimni yomon his qilyapman, ko‘nglim ayniyapti va qornim og‘riyapti.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I swallowed a chemical substance and lost consciousness.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "I am feeling bad, I feel nauseous and my stomach hurts.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "I have a severe headache, dizziness, and I am sweating.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I experience rapid breathing and a change in skin color.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "138",
+            "text": "What diagnostic steps is the medical team conducting if the chart notes: \"Shifokor qon tekshiruvi va siydik tahlili o‘tkazadi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "The doctor performs a blood examination and a urine test.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "The doctor identifies the poisoning and gives an incorrect dose.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "The doctor provides first aid and starts stomach cleansing.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The doctor establishes a diagnosis and changes the room location.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "text": "Translate this critical toxicology observation statement: \"Zaharlanish belgilari aniqlanganda, darhol birinchi yordam ko‘rsatish va shifokor chaqirish zarur.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "If a chemical substance touches the skin, wash it with water and wait for the analysis results.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "When signs of poisoning are identified, it is necessary to provide first aid and call a doctor immediately.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Ingestion of poison causes rapid breathing, sweating, and complete loss of consciousness.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Food poisoning cases can be monitored safely at home without a doctor's supervision.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "140",
+            "text": "How should a doctor ask a patient if they experience vomiting in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Sizda qusish bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Bosh og‘rig‘i bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Rang o‘zgarishi bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Ich ketishi bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "141",
+            "text": "What is the correct Uzbek medical phrase for \"What is bothering you?\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qayeringiz og‘riyapti?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Allergiyangiz bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Sizda isitma bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "142",
+            "text": "What do the communicative verbs \"tushuntirish\" and \"tushunish\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "To explain and to understand",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "To ask and to answer",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "To listen and to examine",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "To prescribe and to monitor",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "143",
+            "text": "Which Uzbek phrase means \"Is the pain strong?\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qachondan beri muammo bor?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Dori qabul qildingizmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Qayeringiz og‘riyapti?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Og‘riq kuchlimi?",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "144",
+            "text": "What type of patient state does the Uzbek phrase \"jiddiy holat\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Emergency discharge",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Serious condition",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Normal checkup",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Mild reaction",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "145",
+            "text": "How should a doctor ask a patient \"Where does it hurt?\" in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Qayeringiz og‘riyapti?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Simptomlar qachon boshlanadi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Siz dori qabul qildingizmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Sizni nima bezovta qilmoqda?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "146",
+            "text": "When a doctor says to a patient: \"Men sizni darhol tekshiraman,\" what are they communicating?",
+            "options": [
+              {
+                "id": "A",
+                "text": "I will give you medicine now.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "We will observe you for a few hours.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "We will perform a blood analysis.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I will examine you immediately.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "147",
+            "text": "Translate this common patient complaint from a clinical dialogue slide: \"Men o‘zimni yomon his qilyapman va ko‘kragim og‘riyapti.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "I feel unwell and my chest hurts.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "I have a severe headache and fever.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have trouble breathing and coughing.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I feel tired and my arm is numb.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "148",
+            "text": "What timeline is a patient establishing if they state: \"Bu bugun ertalabdan beri bor\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "This has been ongoing for two weeks.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "This has been present since this morning.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "This happens occasionally during the day.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "This started late last night.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "149",
+            "text": "Translate this reassurance and management statement from the doctor: \"Biz tahlil o'tkazamiz va sizni kuzatamiz.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "We need to call an emergency specialist.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "We must begin an immediate physical exam.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "We will change your medicine and dosage.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "We will perform an analysis and observe you.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "150",
+            "text": "How should a doctor ask a patient if they took any medicine in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Og‘riq kuchlimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Siz dori qabul qildingizmi?",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Allergiyangiz bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Sizda isitma bormi?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "151",
+            "text": "What is the correct Uzbek medical phrase for \"take the medicine on time\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Chuqur nafas oling",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Dorini vaqtida iching",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Ovqatdan keyin iching",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Iltimos, yoting",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "152",
+            "text": "What do the clinical procedures \"ukol qilish\" and \"bog‘lam qo‘yish\" mean?",
+            "options": [
+              {
+                "id": "A",
+                "text": "To measure blood pressure and to measure temperature",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "To give an injection and to apply a bandage",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "To ask questions and to describe symptoms",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "To provide IV treatment and to give advice",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "153",
+            "text": "Which Uzbek question translates to \"What is this medicine for?\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Bu dori nima uchun?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Yana dori kerakmi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Qachon ichishim kerak?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Necha marta ichaman?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "154",
+            "text": "What type of medical instruction does the Uzbek phrase \"harakat qilmang\" translate to?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Raise your hand",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Do not move",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "Please lie down",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Take a deep breath",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "155",
+            "text": "How should a nurse ask a patient \"Is there pain?\" or check for pain in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Og‘riq bormi?",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "Harorat yaxshimi?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Dorilar bormi?",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "Qachon ichasiz?",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "156",
+            "text": "When a nurse says to a patient: \"Iltimos, yoting va chuqur nafas oling,\" what instructions are they giving?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Do not move and rest well.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Sit down and raise your hand.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Please lie down and take a deep breath.",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Drink water and take medicine after food.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "157",
+            "text": "Translate this common patient response from a clinical treatment slide: \"Men o‘zimni yaxshi his qilyapman, lekin men charchadim.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "When should I take this medicine?",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "Do I need more medicine tomorrow morning?",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "I have severe pain and I need an injection.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "I feel better, but I am tired.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "158",
+            "text": "What procedure is a nurse performing if the chart states: \"Hamshira bemorning qon bosimini o‘lchaydi\"?",
+            "options": [
+              {
+                "id": "A",
+                "text": "The nurse measures the patient's body temperature.",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "The nurse measures the patient's blood pressure.",
+                "isCorrect": true
+              },
+              {
+                "id": "C",
+                "text": "The nurse applies a clean bandage to the wound.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "The nurse provides an immediate IV treatment.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "159",
+            "text": "Translate this primary guideline regarding oral medication compliance: \"Dorini ertalab va ovqatdan keyin ichish kerak.\"",
+            "options": [
+              {
+                "id": "A",
+                "text": "It is necessary to take the medicine in the morning and after food.",
+                "isCorrect": true
+              },
+              {
+                "id": "B",
+                "text": "It is recommended to take the medicine on time with water.",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "You must take the medicine three times a day before meals.",
+                "isCorrect": false
+              },
+              {
+                "id": "D",
+                "text": "You need to rest and take more liquids after the medicine.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "160",
+            "text": "How should a nurse instruct a patient to raise their hand in Uzbek?",
+            "options": [
+              {
+                "id": "A",
+                "text": "Harakat qilmang",
+                "isCorrect": false
+              },
+              {
+                "id": "B",
+                "text": "O‘tirib turing",
+                "isCorrect": false
+              },
+              {
+                "id": "C",
+                "text": "Qo‘lingizni ko‘taring",
+                "isCorrect": true
+              },
+              {
+                "id": "D",
+                "text": "Dam oling",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      }
   }
 }
