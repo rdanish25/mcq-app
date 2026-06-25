@@ -39150,6 +39150,3496 @@
           ]
         }
       ]
+    },
+    "physiology_mcq": {
+      "id": "physiology_mcq",
+      "name": "Physiology MCQ",
+      "questions": [
+        {
+          "id": "1",
+          "text": "A 55-year-old on haemodialysis has a continuous \"bruit\" over the left antecubital fossa. What is the mechanism?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Venous hum",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Arteriovenous fistula turbulence",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Carotid bruit",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Patent ductus arteriosus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "text": "Which of the following best explains why residual volume is physiologically essential?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increases vital capacity in athletes",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Keeps the diaphragm contracted",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Allows maximum oxygen diffusion during apnea",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Prevents total lung collapse and sticking of wet alveolar walls",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "text": "A 45-year-old with mitral stenosis has an opening snap. What causes this sound?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sudden tensing of chordae in diastole",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Atrial contraction",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Calcified immobile mitral valve",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Abrupt opening of a thickened but mobile mitral valve",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "text": "The normal net filtration pressure in pulmonary capillaries is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "28 mmHg inward",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "7 mmHg outward",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1 mmHg outward",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "0 mmHg",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "text": "In the hex axial reference system, Lead I is oriented at:",
+          "options": [
+            {
+              "id": "A",
+              "text": "+90°",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "0°",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "–30°",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "+180°",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "text": "A patient with severe anemia (Hb = 5 g/dL) has normal arterial PO₂ (95 mmHg) but complains of fatigue and dyspnea. Why does this patient have hypoxia without hypoxemia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Carbon dioxide levels are elevated",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Dissolved oxygen maintains normal PO₂ but total oxygen content is low",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The patient is hyperventilating",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hemoglobin has high affinity for oxygen",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "text": "Which of the following is a cause of right axis deviation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inferior wall MI",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary stenosis",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Left anterior fascicular block",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Left ventricular hypertrophy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "text": "The amount of oxygen dissolved in 100 mL of blood at a PaO₂ of 100 mm Hg is approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "3.0 mL",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "0.003 mL",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "0.3 mL",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "0.03 mL",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "text": "A patient with a left-shifted oxygen dissociation curve would most likely have:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased 2,3-DPG levels",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increased oxygen delivery to tissues",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Decreased oxygen delivery to tissues at the same PaO₂",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Increased P50",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "Which of the following is secreted by the paraventricular nucleus of the hypothalamus and acts on the anterior pituitary?",
+          "options": [
+            {
+              "id": "A",
+              "text": "CRH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "GnRH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "ADH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Oxytocin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "text": "The normal mean pulmonary artery pressure is approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "15 mmHg",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "120 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "5 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "93 mmHg",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "A patient with a pituitary adenoma has elevated IGF-1 and failure of GH suppression after oral glucose load. The tumor cells are most likely:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Basophilic",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Chromophobic",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Acidophilic",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "PAS-positive",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "text": "In a lung unit with low V/Q ratio (less than 0.8), which statement is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perfusion is excessive relative to ventilation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ventilation is excessive relative to perfusion",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Both ventilation and perfusion are normal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gas exchange is optimal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "text": "During quiet breathing, expiration is described as a passive process because:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The diaphragm relaxes and pushes air out",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The chest wall actively springs inward",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stretched elastic lungs recoil and pull the chest wall inward",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Expiratory muscles contract forcefully",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "text": "A patient with carbon monoxide poisoning has a PaO₂ of 95 mm Hg but severe tissue hypoxia. The primary mechanism is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Right shift of the dissociation curve",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Left shift of the dissociation curve and reduced functional hemoglobin",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Reduced dissolved oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased 2,3-DPG",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "text": "Which lead is most useful for detecting right ventricular infarction?",
+          "options": [
+            {
+              "id": "A",
+              "text": "V1",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "aVL",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "V7",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "V4R",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "text": "The Wilson central terminal is created by connecting:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Only LL and chest leads",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Only RA and LA",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "RA, LA, and RL through equal resistances",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "RA, LA, and LL through equal resistances",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "text": "Which of the following is a function of the pulmonary circulation acting as a filter?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Trapping small thrombi from systemic veins",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Storing 500 mL of blood",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Producing surfactant",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Converting angiotensin, I to angiotensin II",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "text": "In a healthy upright person, which zone of pulmonary blood flow has intermittent flow (only during systole)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Zone 1",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Zone 2",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "All zones equally",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Zone 3",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "text": "The proper placement of precordial lead V4 is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "5th ICS, midclavicular line",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "4th ICS, left sternal border",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "5th ICS, anterior axillary line",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4th ICS, right sternal border",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "Which of the following correctly describes the relationship between lung volume and pulmonary vascular resistance?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Resistance is lowest at total lung capacity",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Resistance is lowest at residual volume",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Resistance is independent of lung volume",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Resistance is lowest at functional residual capacity",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "text": "A 25-year-old with a venous hum has a continuous murmur. Which maneuver makes it disappear?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Standing upright",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Squatting",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lying supine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Turning the head to the opposite side or lying flat",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "text": "Why is pulmonary circulation maintained as a low-pressure system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "To increase blood velocity for faster gas exchange",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "To reduce the workload of the left ventricle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "To prevent fluid leakage and pulmonary edema",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "To allow higher oxygen diffusion into blood",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "text": "Which of the following statements about the blood-brain barrier (BBB) is correct regarding respiratory control?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It blocks both carbon dioxide and protons equally",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "It blocks bicarbonate but allows carbon dioxide to pass",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "It freely allows protons to pass but blocks carbon dioxide",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It has no effect on any blood gas",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "text": "In the helium dilution method, why is helium specifically used?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is cheaper than oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "It is radioactive and easy to trace",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "It does not absorb into the blood and remains in the lungs",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "It reacts with carbon dioxide to improve measurement",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "text": "Which condition produces an opening snap followed by a mid-diastolic rumble?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tricuspid regurgitation",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Aortic stenosis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pulmonary stenosis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mitral stenosis",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "text": "A patient with severe chronic anemia (Hb = 6 g/dL) is given 100% oxygen. Which of the following best describes the expected change?",
+          "options": [
+            {
+              "id": "A",
+              "text": "PaO₂ increases significantly, and oxygen content doubles",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Both PaO₂ and oxygen content remain unchanged",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "PaO₂ remains unchanged, but oxygen content increases",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "PaO₂ increases slightly, but total oxygen content remains low",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "text": "The normal P50 value for adult hemoglobin is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "50 mm Hg",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "25 mm Hg",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "15 mm Hg",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "40 mm Hg",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "text": "A 65-year-old with bicuspid aortic valve has an early systolic ejection click. What is the mechanism?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sudden halting of a doming valve during opening",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Rapid ventricular filling",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pericardial inflammation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Late systolic tensing of chordae",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "text": "A patient with a pituitary tumor has bitemporal hemianopia. The tumor is compressing which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Optic chiasm",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Optic tract",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Occipital cortex",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Optic nerve",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Which of the following is TRUE about the U wave?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It represents Purkinje fiber repolarization",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "It is best seen in hyperkalemia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "It is always pathologic",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It precedes the T wave",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "text": "A 28-year-old pregnant woman at 32 weeks has a continuous murmur over the breast that disappears with firm stethoscope pressure. What is the diagnosis?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Venous hum",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Mammary souffle",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Pericardial rub",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Patent ductus arteriosus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "text": "Which of the following is a cause of left axis deviation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulmonary embolism",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Chronic lung disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Right ventricular hypertrophy",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Left anterior fascicular block",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "text": "The primary reason blood flow is highest at the base of the lung in an upright person is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lower pulmonary venous pressure at the base",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Higher alveolar pressure at the base",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Higher oxygen concentration at the base",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Gravitational effect increasing pulmonary arterial pressure at the base",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "text": "A 65-year-old with a mechanical mitral valve prosthesis has a normal opening and closing click. Suddenly, the closing click becomes soft and an early systolic murmur appears. What is the mechanism?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Prosthetic valve thrombosis or stuck leaflet",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Normal prosthetic function",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Endocarditis without dysfunction",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pericardial rub",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "text": "Central chemoreceptors are primarily sensitive to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Venous partial pressure of carbon dioxide directly",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Arterial partial pressure of oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Protons generated within the CNS interstitial fluid",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Arterial pH directly",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "text": "A child is born with a midline facial defect, including cleft lip and palate, and is later found to have panhypopituitarism. This is most likely due to a developmental defect of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Neural ectoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Rathke's pouch",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Neural crest cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Notochord",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "text": "Which of the following would shift the oxygen-hemoglobin dissociation curve to the right, improving oxygen delivery to tissues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Low carbon dioxide",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreased temperature",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased 2,3-DPG",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Alkalosis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "text": "A patient has Lead I = negative, aVF = positive. The QRS axis is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Right axis deviation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Extreme axis deviation",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Left axis deviation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Normal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "text": "The enzyme angiotensin-converting enzyme (ACE) is located on:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bronchial smooth muscle",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary capillary endothelial cells",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Alveolar type II cells",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pulmonary arterial smooth muscle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "text": "A patient with left bundle branch block (LBBB) has paradoxical splitting of S2. What is the mechanism?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fixed split from atrial septal defect",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Early A2 due to prolonged LV systole",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Delayed A2 due to delayed left ventricular depolarization",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Early P2 due to right ventricular overload",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "text": "In a healthy resting person in the upright position, which zone of the lung has the highest blood flow?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Base (zone 3)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mid-lung (zone 2)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Apex (zone 1)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Equal in all zones",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "text": "Which of the following is secreted by gonadotrophs of the anterior pituitary?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ACTH",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "TSH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "FSH and LH",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Prolactin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "text": "The net filtration pressure in pulmonary capillaries is only 1 mmHg outward because:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Plasma oncotic pressure is very low",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hydrostatic pressure is very high",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lymphatics drain all fluid instantly",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Outward forces (hydrostatic + interstitial oncotic + surface tension) nearly equal plasma oncotic pressure",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "text": "In emphysema, the destruction of alveolar septa leads to hypoxic hypoxia primarily by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Creating a right-to-left cardiac shunt",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Reducing the surface area for gas exchange",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Inducing anemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Causing airway obstruction",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "text": "Which of the following correctly describes the firing pattern of the dorsal inspiratory pacemaker neurons?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Constant frequency firing throughout inspiration",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Progressive increase in frequency (ramp pattern) followed by silence",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Continuous firing with no silence",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Burst firing only at the start of inspiration",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "text": "The precordial leads view the heart in which plane?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Coronal",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Sagittal",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Transverse (horizontal)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Frontal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "text": "Which of the following is NOT a bipolar lead?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lead II",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lead I",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lead III",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "aVL",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "text": "In a lung unit with a blocked airway (no ventilation but intact perfusion), the V/Q ratio is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lower than normal (approaching zero)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Normal (0.8)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Infinite",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Higher than normal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "text": "Which of the following is a normal variant in young, healthy individuals?",
+          "options": [
+            {
+              "id": "A",
+              "text": "PR interval >0.24 sec",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "QT prolongation >0.50 sec",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "ST elevation in V1–V2 (early repolarization)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Pathologic Q waves",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "text": "In a patient with chronic obstructive pulmonary disease (COPD), widespread airway obstruction leads to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreased pulmonary vascular resistance",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreased right ventricular afterload",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased V/Q ratio in all lung units",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Chronic pulmonary hypertension due to hypoxic vasoconstriction",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "text": "Hypoxic pulmonary vasoconstriction is a compensatory mechanism that:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increases blood flow to poorly ventilated areas",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreases ventilation to poorly perfused areas",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Decreases blood flow to poorly ventilated areas",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Increases ventilation to poorly perfused areas",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "text": "A patient has a PaO₂ of 55 mmHg, normal alveolar PO₂ (100 mmHg), and no response to 100% oxygen. The most likely diagnosis is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "High altitude",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Diffusion impairment",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Intrapulmonary or cardiac shunt",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Hypoventilation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "text": "During fetal development, the posterior pituitary (neurohypophysis) arises from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Rathke's pouch (oral ectoderm)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Mesoderm of the first pharyngeal arch",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Neural ectoderm (infundibulum of the diencephalon)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Surface ectoderm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "text": "In a resting person, what percentage of oxygen carried by arterial blood is actually unloaded to tissues under normal conditions?",
+          "options": [
+            {
+              "id": "A",
+              "text": "25%",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "50%",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "75%",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "10%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "text": "A patient with severe hypoalbuminemia (plasma proteins 3 g/dL) develops pulmonary edema. The most likely mechanism is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lymphatic obstruction",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreased plasma oncotic pressure",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Increased alveolar surface tension",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased hydrostatic pressure",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "text": "Which of the following correctly describes the relationship between alveolar ventilation and PaCO₂?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hyperventilation decreases PaCO₂",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Ventilation has no effect on PaCO₂",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hyperventilation increases PaCO₂",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hypoventilation decreases PaCO₂",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "text": "A 40-year-old with mitral valve prolapse has a mid-systolic click. Which maneuver moves the click toward S1?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lying supine",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hand grip",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Standing",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Squatting",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "text": "Why does fetal hemoglobin (HbF) have a higher affinity for oxygen than adult hemoglobin (HbA)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "HbF has alpha chains instead of beta chains",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "HbF contains iron in ferric form",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "HbF has gamma chains that cannot bind 2,3-DPG effectively",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "HbF has fewer heme groups",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "text": "The pneumotaxic center is located in the pons. Its primary function is to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Activate expiratory muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Stimulate inspiration",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increase the frequency of the ramp pacemaker",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Inhibit inspiration and terminate it",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "text": "A 22-year-old asymptomatic woman has a mid-systolic click at the apex. Which maneuver moves the click closest to S1?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Standing",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hand grip",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lying supine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Squatting",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "text": "Which of the following forces favors fluid movement OUT of pulmonary capillaries?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Interstitial oncotic pressure (14 mmHg)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Plasma hydrostatic pressure (7 mmHg)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Plasma oncotic pressure (28 mmHg)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Both B and C (Interstitial oncotic pressure + Plasma hydrostatic pressure)",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "text": "The primary physiological purpose of hypoxic pulmonary vasoconstriction is to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decrease cardiac output",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increase total pulmonary blood flow",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increase systemic blood pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Match perfusion to ventilation and reduce V/Q mismatch",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "text": "A 50-year-old with dilated cardiomyopathy has a loud S3 gallop. Which hemodynamic state does this reflect?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreased preload",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Normal left ventricular function",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased left ventricular end-diastolic pressure and volume",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Increased afterload",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "text": "Which of the following is a key functional difference between pulmonary and systemic circulation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Systemic circulation has thicker-walled vessels",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary circulation has higher resistance",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pulmonary circulation is a high-pressure system",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pulmonary circulation carries a lower cardiac output",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "text": "A patient with severe anemia (Hb 7 g/dL) has a PaO₂ of 95 mm Hg. Compared to a normal person (Hb 15 g/dL), this patient's:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dissolved oxygen is lower",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "P50 is increased",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Oxygen content is lower but percent saturation is normal",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Percent saturation is lower",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "text": "In a spontaneously breathing person at rest, intrapleural pressure is normally:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Negative throughout the respiratory cycle",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Positive throughout the respiratory cycle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Equal to atmospheric pressure at end-expiration",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Positive during inspiration and negative during expiration",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "text": "The normal PR interval range (seconds) is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "0.06–0.10",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "0.12–0.20",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "0.30–0.40",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "0.20–0.30",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "text": "Which of the following is a bipolar lead?",
+          "options": [
+            {
+              "id": "A",
+              "text": "aVL",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lead I",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "aVR",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "aVF",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "text": "A newborn has a continuous \"machinery\" murmur at the left infraclavicular area. What is the mechanism?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Continuous left-to-right shunt from aorta to pulmonary artery",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Incompetent aortic valve",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "High flow across a normal pulmonic valve",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Turbulent flow in the jugular vein",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "text": "In a patient with pulmonary fibrosis, the lung tissue becomes scarred. How does this affect vital capacity?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increases because lungs become stiffer",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreases because lungs cannot expand well",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Only residual volume increases",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "No effect on vital capacity",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "text": "Which of the following is a metabolic function of pulmonary circulation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Filtration of thrombi from systemic veins",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Production of surfactant",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Conversion of angiotensin I to angiotensin II",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Storage of 500 mL of blood",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "text": "Which of the following anterior pituitary cells is basophilic on routine H&E staining?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lactotrophs",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Both Corticotrophs and Thyrotrophs",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Somatotrophs",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Chromophobes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "text": "In a lung unit with a pulmonary embolus (no perfusion but intact ventilation), the V/Q ratio is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lower than normal",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Higher than normal (approaching infinity)",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Zero",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Normal (0.8)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "text": "The Wilson central terminal potential is approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "+0.5 mV",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "–0.5 mV",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Zero (reference)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Variable with respiration",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "text": "Which of the following statements about functional murmurs is TRUE?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Typically, harsh and high-pitched",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Always indicate congenital heart disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Are always pansystolic",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Disappear with maneuvers that decrease preload",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "text": "A mean QRS axis of –45° is classified as:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Right axis deviation",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Left axis deviation",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Normal axis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Extreme axis deviation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "In a healthy person at rest, the primary drive to breathe comes from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Voluntary control from the cerebral cortex",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Peripheral chemoreceptors detecting low oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stretch receptors in the lungs",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Central chemoreceptors responding to CO₂-derived protons",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "text": "Which of the following is a normal variant in young, healthy individuals?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ST elevation in V1–V2 (early repolarization)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "QT prolongation >0.50 sec",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pathologic Q waves",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "PR interval >0.24 sec",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "text": "The safety margin against pulmonary edema exists because:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Plasma oncotic pressure is very low",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hydrostatic pressure is always zero",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Lymphatic drainage can increase several times before overload",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Alveoli are impermeable to water",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "text": "A patient has Lead I = positive, aVF = negative. The QRS axis is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Left axis deviation",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Normal",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Extreme axis deviation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Right axis deviation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Why do peripheral chemoreceptors begin firing significantly only when PaO₂ drops below 60 mmHg?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Below 60 mmHg, carbon dioxide levels automatically rise",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Above 60 mmHg, the receptors are inhibited by nitric oxide",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Below 60 mmHg, hemoglobin saturation begins to drop steeply",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Above 60 mmHg, oxygen is toxic to chemoreceptor cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "text": "A 55-year-old woman has hypertension, hyperglycemia, easy bruising, and purple striae. ACTH is elevated. MRI shows a 1.5 cm pituitary mass. The tumor cells will stain positive for:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Basophilic granules",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Chromophobic cells",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "PAS-positive",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Acidophilic granules",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "text": "Which of the following is TRUE about precordial leads?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They view the frontal plane",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "V5–V6 view inferior wall",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "They are bipolar leads",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "V1–V4 view anterior heart",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "text": "Which of the following correctly describes blood flow (perfusion) distribution in an upright lung?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Uniform throughout all zones",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lowest at apex, highest at base",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Highest at apex, lowest at base",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Highest only in middle zone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "text": "Which of the following statements about extra-alveolar vessels is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their diameter increases when lung volume increases",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Their diameter decreases when lung volume increases",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "They are compressed during inspiration",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "They are surrounded by alveolar air",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "text": "A patient with myasthenia gravis develops respiratory muscle weakness. The resulting hypoxia is classified as:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Anaemic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Histotoxic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypoxic hypoxia (due to respiratory pump failure)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Stagnant hypoxia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "text": "Which of the following is inhibited by somatostatin?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Prolactin only",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "GH and TSH",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "ACTH only",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "FSH and LH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "text": "In a healthy upright person, why are alveoli in the upper zone of the lung larger than those in the lower zone?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Higher carbon dioxide levels in upper zone",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "More negative intrapleural pressure and gravitational pull",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Increased blood flow to upper zone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Higher oxygen concentration in upper zone",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "text": "The most important single link between metabolic activity and respiratory activity is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Blood temperature",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Arterial partial pressure of carbon dioxide",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Arterial partial pressure of oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Venous pH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "text": "Which of the following is NOT an anti-expansion force during inspiration?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lung elastance",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Airway resistance",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tissue resistance (pleural friction)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Contraction of the diaphragm",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "text": "The transition zone (where R wave equals S wave) is normally seen at:",
+          "options": [
+            {
+              "id": "A",
+              "text": "aVR",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "V3–V4",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "V5–V6",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "V1–V2",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "text": "Which sound is caused by sudden deceleration of mitral or tricuspid valve closure at the start of systole?",
+          "options": [
+            {
+              "id": "A",
+              "text": "S2",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "S1",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "S4",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "S3",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "A patient has increased airway resistance due to asthma. During inspiration, which of the following will occur compared to normal?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Less work is required because of bronchoconstriction",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "More work is required to overcome airway resistance",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "No change in work of breathing",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "More work is required to overcome elastance only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "text": "The apneustic center is located in the lower pons. Its function is to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Terminate inspiration",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Facilitate and prolong inspiration",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Inhibit the dorsal inspiratory group",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Activate active expiration",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "text": "A 25-year-old woman undergoes pituitary surgery. Post-operatively, she has polyuria and polydipsia. Urine output is 8 L/day, serum osmolality 310 mOsm/kg (normal 285–295), urine osmolality 150 mOsm/kg. The most likely diagnosis is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "SIADH",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Nephrogenic diabetes insipidus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Central diabetes insipidus",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Psychogenic polydipsia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "text": "In the helium dilution method, if the initial helium concentration is 10% in a 1.5 L spirometer and after equilibration with the patient's lungs it drops to 5%, the patient's residual volume is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "3.0 L",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "0.75 L",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1.5 L",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "1.0 L",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "text": "Which of the following correctly pairs an anterior pituitary cell with its hormone?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gonadotroph → TSH",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lactotroph → GH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Somatotroph → Prolactin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Corticotroph → ACTH",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "A patient with carbon monoxide poisoning has a PaO₂ of 95 mm Hg but severe tissue hypoxia. The primary mechanism is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Reduced dissolved oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Left shift of the dissociation curve and reduced functional hemoglobin",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Increased 2,3-DPG",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Right shift of the dissociation curve",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "text": "Which hypothalamic nucleus produces gonadotropin-releasing hormone (GnRH)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ventromedial nucleus",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Arcuate nucleus",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Supraoptic nucleus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Paraventricular nucleus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "text": "During quiet inspiration, the volume of the lung at the beginning of inspiration is called:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Total lung capacity",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Functional residual capacity",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Residual volume",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Expiratory reserve volume",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "text": "A patient with severe hemorrhage develops hypotension. Which zone of pulmonary blood flow is most likely to appear or expand?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Zone 2 (intermittent flow)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Zone 1 (no flow)",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Zone 3 (continuous flow)",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "All zones equally",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "Hyperventilation-induced hypocalcemia increases neuronal excitability because:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chloride channels open",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Sodium channels become unguarded by calcium ions",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Potassium channels close",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Calcium channels open wider",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "text": "Which of the following statements about bronchial circulation is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It drains into pulmonary veins, causing venous admixture",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "It arises from the right ventricle",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "It carries deoxygenated blood to the alveoli",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It is the main source of blood for gas exchange",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "text": "A patient with kyphoscoliosis is expected to have:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreased vital capacity due to restricted rib cage movement",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Increased vital capacity due to stronger accessory muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Isolated increase in residual volume",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "No change in any lung volume",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "A 30-year-old with severe pulmonary hypertension has a loud P2 and an early systolic ejection click that decreases with inspiration. What is the origin of the click?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aortic valve",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonic valve",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Mitral valve",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tricuspid valve",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "text": "Which of the following anterior pituitary hormones is not a tropic hormone (does not stimulate another endocrine gland)?",
+          "options": [
+            {
+              "id": "A",
+              "text": "FSH",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "ACTH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Prolactin",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "TSH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "text": "In a resting person, when arterial blood (PaO₂ 95 mm Hg) enters systemic capillaries, what is the primary driver of oxygen movement into the tissues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemoglobin releasing oxygen into plasma due to low pH",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Dissolved oxygen moving down its partial pressure gradient",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Active transport of oxygen into RBCs",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Carbon dioxide displacing oxygen from heme",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "text": "At a partial pressure of oxygen of 40 mm Hg, how much dissolved oxygen is present in 100 mL of blood?",
+          "options": [
+            {
+              "id": "A",
+              "text": "0.12 mL",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "0.3 mL",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "0.003 mL",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "0.03 mL",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "text": "Which of the following statements about the hypothalamic-hypophyseal portal system is TRUE?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It carries neurohormones from posterior to anterior pituitary",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "It allows releasing hormones to reach the anterior pituitary directly without entering systemic circulation",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "It carries blood from anterior to posterior pituitary",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It carries oxytocin and ADH to the anterior pituitary",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "text": "A 70-year-old with dyspnea and a mid-diastolic \"plop\" undergoes echocardiography showing a mobile left atrial mass. What is the mechanism of the plop?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Opening of a stenotic tricuspid valve",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Rapid ventricular filling",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pericardial knock",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Mass striking the mitral valve during diastole",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "text": "Which condition would most likely shift the oxygen dissociation curve to the left?",
+          "options": [
+            {
+              "id": "A",
+              "text": "High altitude (chronic hypoxia)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hyperthermia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Exercise",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Alkalosis",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "text": "A patient with a pituitary tumor has bitemporal hemianopia. The tumor is compressing which structure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Occipital cortex",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Optic nerve",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Optic tract",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Optic chiasm",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "text": "A patient with a left-shifted oxygen dissociation curve would most likely have:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased P50",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increased 2,3-DPG levels",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased oxygen delivery to tissues",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Decreased oxygen delivery to tissues at the same PaO₂",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "Which of the following statements about extra-alveolar vessels is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their diameter decreases when lung volume increases",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "They are surrounded by alveolar air",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "They are compressed during inspiration",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Their diameter increases when lung volume increases",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "text": "In a healthy upright person, why are alveoli in the upper zone of the lung larger than those in the lower zone?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased blood flow to upper zone",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Higher oxygen concentration in upper zone",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Higher carbon dioxide levels in upper zone",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "More negative intrapleural pressure and gravitational pull",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "text": "Which of the following best explains why supplemental oxygen is less effective in treating hypoxemia caused by shunting compared to hypoventilation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Shunted blood never passes through ventilated alveoli",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Oxygen cannot dissolve in shunted blood",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Shunting always occurs with normal alveolar PO₂",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hemoglobin is saturated in shunted blood",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "text": "In a lung unit with a blocked airway (no ventilation but intact perfusion), the V/Q ratio is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lower than normal (approaching zero)",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Normal (0.8)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Higher than normal",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Infinite",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "text": "In a resting person, when arterial blood (PaO₂ 95 mm Hg) enters systemic capillaries, what is the primary driver of oxygen movement into the tissues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dissolved oxygen moving down its partial pressure gradient",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Active transport of oxygen into RBCs",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hemoglobin releasing oxygen into plasma due to low pH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Carbon dioxide displacing oxygen from heme",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "text": "The normal net filtration pressure in pulmonary capillaries is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "7 mmHg outward",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "1 mmHg outward",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "0 mmHg",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "28 mmHg inward",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "text": "Which of the following forces favors fluid movement OUT of pulmonary capillaries?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Plasma oncotic pressure (28 mmHg)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Plasma hydrostatic pressure (7 mmHg)",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Both B and C (Interstitial oncotic pressure 14 mmHg + Plasma hydrostatic pressure 7 mmHg)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Interstitial oncotic pressure (14 mmHg)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "122",
+          "text": "In a healthy person at rest, the primary drive to breathe comes from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Central chemoreceptors responding to CO₂-derived protons",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Voluntary control from the cerebral cortex",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Peripheral chemoreceptors detecting low oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Stretch receptors in the lungs",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "text": "Why does obesity reduce vital capacity?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Residual volume increases dramatically",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "The diaphragm cannot descend well due to abdominal fat",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Obesity strengthens expiratory muscles",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Obese people have larger chest walls",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "124",
+          "text": "In a healthy resting person in the upright position, which zone of the lung has the highest blood flow?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Apex (zone 1)",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Equal in all zones",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Base (zone 3)",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Mid-lung (zone 2)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "text": "The primary reason pulmonary vascular resistance is much lower than systemic vascular resistance is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulmonary circulation has a higher driving pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary vessels are shorter and have more parallel branches",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Pulmonary vessels are thicker",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pulmonary blood flow is lower",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "126",
+          "text": "Why does the partial pressure of oxygen drop from 100 mm Hg to 95 mm Hg after blood leaves the pulmonary capillaries but before it reaches the left heart?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oxygen is consumed by lung tissue",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Venous admixture from bronchial circulation",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Diffusion of oxygen into the alveoli",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased carbon dioxide in pulmonary veins",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "text": "The primary physiological purpose of hypoxic pulmonary vasoconstriction is to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increase total pulmonary blood flow",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decrease cardiac output",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increase systemic blood pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Match perfusion to ventilation and reduce V/Q mismatch",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "128",
+          "text": "In a healthy person at rest, the driving pressure for pulmonary circulation (mean pulmonary artery pressure minus left atrial pressure) is approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "10 mmHg",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "91 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "40 mmHg",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "text": "Which of the following would shift the oxygen-hemoglobin dissociation curve to the right, improving oxygen delivery to tissues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased 2,3-DPG",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Alkalosis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Decreased temperature",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Low carbon dioxide",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "130",
+          "text": "Central chemoreceptors are primarily sensitive to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Arterial partial pressure of oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Protons generated within the CNS interstitial fluid",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Venous partial pressure of carbon dioxide directly",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Arterial pH directly",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "text": "Why is pulmonary circulation maintained as a low-pressure system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "To reduce the workload of the left ventricle",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "To increase blood velocity for faster gas exchange",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "To allow higher oxygen diffusion into blood",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "To prevent fluid leakage and pulmonary edema",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "132",
+          "text": "he amount of oxygen dissolved in 100 mL of blood at a PaO₂ of 100 mm Hg is approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "0.03 mL",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "3.0 mL",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "0.3 mL",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "0.003 mL",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "text": "During quiet breathing, expiration is described as a passive process because:",
+          "options": [
+            {
+              "id": "A",
+              "text": "The diaphragm relaxes and pushes air out",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Stretched elastic lungs recoil and pull the chest wall inward",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "The chest wall actively springs inward",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Expiratory muscles contract forcefully",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "134",
+          "text": "Hyperventilation-induced hypocalcemia increases neuronal excitability because:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Potassium channels close",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Sodium channels become unguarded by calcium ions",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Chloride channels open",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Calcium channels open wider",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   }
 }
