@@ -36024,6 +36024,3132 @@
           ]
         }
       ]
+    },
+    "normal_physiology": {
+      "id": "normal_physiology",
+      "name": "Normal Physiology",
+      "questions": [
+        {
+          "id": "1",
+          "text": "Residual volume is normally about -----% of total lung capacity.",
+          "options": [
+            {
+              "id": "A",
+              "text": "40",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "30",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "10",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "20",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "text": "This volume cannot be measured directly by spirometer:",
+          "options": [
+            {
+              "id": "A",
+              "text": "IRV",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "TV",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "RV",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "ERV",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "text": "The wall of alveoli is composed of all of the followings, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Type I cells",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Macrophages",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Clara cells",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Type II cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "text": "Which of the muscle is responsible for 75% of inspiration?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Anterior abdominal wall",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Internal intercostals",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Diaphragm",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "External intercostals",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "text": "On the right side, Bronchial artery originates from:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulmonary artery",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Subclavian artery",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Descending aorta",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Third posterior intercostal artery",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "text": "A child about 10 years of age had been having sore throat, cough and fever. On the third day, he developed severe cough, difficulty in breathing and high temperature, with pain in his right side of chest and right shoulder. The pain radiate to right shoulder because of which nerve?",
+          "options": [
+            {
+              "id": "A",
+              "text": "C5",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "C4",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "C3",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "T1",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "text": "At the end of normal inspiration, What is the intrapleural pressure?",
+          "options": [
+            {
+              "id": "A",
+              "text": "-2mm Hg",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "+5 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "-30 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "-6 mmHg",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "text": "What is the intra-alveolar pressure during normal expiration?",
+          "options": [
+            {
+              "id": "A",
+              "text": "-1 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "-5 mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "+1 mmHg",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "+5mmHg",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "text": "All of the following conditions cause decrease in compliance, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kyphosis and scoliosis",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Emphysema",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Pleural effusion",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Fibrotic pleurisy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "Bronchopulmonary segment contains all except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Independent pulmonary artery",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Conical segment",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tertiary bronchiole",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Independent pulmonary vein",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "text": "Bronchial veins of the right side drains into -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Azygos vein",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hemiazygos vein",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Superior vena cava",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "inferior venacava",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "Which of the following about parietal pleura is correct -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sensitive to pain",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Derived from splanchnopleural layer of lateral plate mesoderm",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Extends upto T2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Supplied by vagus",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "text": "If a foreign body enters in to the nose accidentally it enters into -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Posterior segment of right Lower lobe",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Apical segment of right Lower lobe",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Basal segment of left Lung",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Medial segment of right Middle lobe",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "text": "Structure arching over hilum of right lung is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thoracic duct",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Arch of aorta",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Superior vena cava",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Azygos vein",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "text": "Lower border of costodiaphragmatic recess at midaxillary line is at level of which Rib?",
+          "options": [
+            {
+              "id": "A",
+              "text": "8th Rib",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "10th Rib",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "12th Rib",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "6th Rib",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "text": "Correct about right and left main bronchi is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Right bronchus is more vertical and has a narrow calibre than the left",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Left bronchus is more vertical and broader than right",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Right bronchus is more vertical and broader than the left",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Left bronchus is more vertical and narrower than right",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "text": "Superior intercostal artery is a branch of:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thyrocervical trunk",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Costocervical trunk",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Internal thoracic artery",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dorsal scapular artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "text": "While doing thoracocentesis, it is  advisable to introduce needle at-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lower border of the rib",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "In anterior part of intercostal space",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In the center of the intercostal space",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Upper border of the rib",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "text": "In the lungs, bronchial arteries supply the bronchopulmonary tree:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Till tertiary bronchi",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Till respiratory bronchioles",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Till segmental bronchi",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Till alveolar sacs",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "text": "Lower border of lung is upto____ level of rib at midaxillary line?",
+          "options": [
+            {
+              "id": "A",
+              "text": "6",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "10",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "12",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "8",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "Residual volume is measured by all, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Body plethysmograph",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Nitrogen washout technique",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Spirometer",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Helium dilution method",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "text": "Unloading of oxygen to tissues by oxy-Hb is assisted by all, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "High PO2 and low PC02 in tissues",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2-3 diphosphoglycerate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Bohr- effect",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Decreased H+",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "text": "Halden effect is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Important mechanism of O2 transport in body",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Binding of CO2 to Hb favors release of O2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Binding of CO to Hb",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Binding of O2 to Hb favors exhalaion of CO2",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "text": "The cause of death in cyanide poisoning is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Histotoxic anoxia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Anoxic anoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Stagnant anoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anaemic anoxia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "text": "Volume of air taken into the lungs in normal respiration is known as -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inspiratory reserve volume",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Tidal volume",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Timed vital capacity",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Vital capacity",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "text": "Anatomical dead space of normal lung is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "350 ml",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "300ml",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "150 ml",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "250 ml",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "text": "After hyperventilating for some time, holding the breath is dangerous since-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alkalosis can lead on the tetany",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Due to lack of stimulation by CO2 anoxia can go into dangerous levels",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Decreased CO2 shift the oxygen dissociation curve to the left",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "It can lead to CO2 nacrosis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "text": "Pulmonary surfactant is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lectithin",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Sphingosine",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Dipalmitoyl phosphatidyl choline",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Dipalmitoyl phosphatidyl serine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "text": "Pathological changes in Caisson’s disease is due to-",
+          "options": [
+            {
+              "id": "A",
+              "text": "CO2",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "CO",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "O2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "N2",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "text": "Cyanosis in which PaO2 is normal often results due to -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Respiratory disease",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Congenital heart disease",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Abnormal hemoglobin",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Valvular lesion",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Gas with greatest affinity for Hemoglobin?",
+          "options": [
+            {
+              "id": "A",
+              "text": "CO2",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "O2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "NO",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "CO",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "text": "The normal dead space is about -",
+          "options": [
+            {
+              "id": "A",
+              "text": "60% of tidal volume",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "30% of tidal volume",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "50% of tidal volume",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "40% of tidal volume",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "text": "Ventilation perfusion ratio is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "0.5",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "1.2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1.0",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "0.8",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "text": "Type II pulmonary epithelial cells secrete -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mucus",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Surfactant",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Heparin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Polypeptides",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "text": "Oxygen dissociation curve is shifted to the right in all except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "HbF",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Increase of 2,3 DPG",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Fall in pH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Rise in temperature",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "text": "Oxygen therapy is not effective at all in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Anaemic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hypoxic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Histotoxic hypoxia",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Ischemic hypoxia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "text": "Most potent respiratory stimulant is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "H+",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Carbondioxide",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "K+",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "text": "Hypoxic Hypoxia is characterised by, all except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Favourable response to 100% oxygen",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Caused by deep sea diving",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Low arterial P02",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Intense chemoreceptor response",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "text": "J-Receptors are situated by -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alveolar interstitium",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Blood vessels",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Carotid body",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Heart",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "text": "The walls of the following structures are all supported by cartilage except for one of them. Which one?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bronchioles",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Larynx",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Bronchi",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Trachea",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "text": "Normal angle of carina is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "70 degree",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "45 degree",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "90 degree",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "25 degree",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "text": "Ghon complex consists of all of the followings except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hilar lyphadenopathy",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pleural effusion",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Subpleural focus",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "lymphangitis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "text": "Parasympathetic nerves to the respiratory tract have all of the following functions, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "increased mucus secretion",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Bronchodilation",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Bronchoconstriction",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Afferent pathway for cough reflex",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "text": "Which of the following does not occur in high altitude acclimatisation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Reticulocytosis",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increase serum erythropoiten",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased serum cortisol",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased blood glucose",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "text": "Shift to right of O2 dissociation curve is seen in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased pH",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreased Pa CO2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Decreased H+",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increase Pa CO2",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "text": "A person ascends to 12,000 feet develops acute breathlessness this is due to -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreased hypoxic stimulation of respiration",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increased pulmonary blood flow",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Mechanical interference of thorax",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Carbon dioxide washout",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "text": "In normal adult, the lung is kept dry because of-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tidal volume",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Osmotic pressure",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Surfactant",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hydrostatic pressure",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "text": "Vital capacity is a measure of-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Inspiratory reserve volume plus expiratory reserve volume",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Tidal volume plus inspiratory reserve volume plus expiratory reserve volume",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Expiratory reserve volume plus reserve volume",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Total volume",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "text": "The Alveolar PO2 is-",
+          "options": [
+            {
+              "id": "A",
+              "text": "100mmHg",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "120mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "150mmHg",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "110mmHg",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "text": "Respiratory acidosis can cause -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased PCO2 and decreased PH",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Decreased PCO2 and increased PH",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased PCO2 and increased PH",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Decreased PCO2 and decreased PH",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "text": "Addition of glucose to stored blood is to -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provide nutrition",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Prevent hemolysis",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increase 2,3 DPG",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Increase Hb content",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "text": "The most important factor in transport of CO2 as Bicarbonate is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Basic nature of HCO3",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increased solubility of CO2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Affinity to Hb",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Carbonic anhydrase in RBC",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "text": "Normal value of FEV1 in an adult male is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "65%",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "95%",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "50%",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "80%",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "text": "J Receptor Stimulation causes  all, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Apnoea",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hypotension",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Tachynoea",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tachycardia",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "text": "The Alveolar ventilation in an individual with Tidal volume 600 ml, dead space 150 ml. and Respiratory rate of 15/minute is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "6.75 Lit/Min",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "2.5 Lit/Min",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "9 Lit/Min",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "4.0 Lit/Min",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "text": "Which of the following diffuses freely from plasma to extracellular space-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Glucose",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Proteins",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "H2O",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "CO2",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "text": "What is not true for respiration centre -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Is inhibited during swallowing and vomiting",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Sends out regular impulses to inspiratory muscles during quiet respiration",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Situated in the medulla and pons",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Sends out regular bursts of impulses to expiratory muscles during quiet respiration",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "text": "Structure through which O2 must diffuse in passing from alveolar lumen to haemoglobin",
+          "options": [
+            {
+              "id": "A",
+              "text": "Capillary endothelium, Plasma and RBC membrane",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "All",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Surfactant containing liquid",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Alveolar membrane basement membrane",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "text": "CO2 is carried in the blood -",
+          "options": [
+            {
+              "id": "A",
+              "text": "All",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Mainly as bicarbonate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "In combination with hemoglobin",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "In physical solution in plasma",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "text": "The most important substance controlling alveolar ventilation-",
+          "options": [
+            {
+              "id": "A",
+              "text": "H+",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "N2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "O2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "CO2",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "text": "The diffusing capacity for carbon dioxide compared to that for oxygen is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "20 times",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "5 times",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "2 times",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "10 times",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "text": "Arterial pO2 is reduced in -",
+          "options": [
+            {
+              "id": "A",
+              "text": "CO poisoning",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary hypoventilation",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Anaemia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cyanide poisoning",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "text": "Oxygen dissociation curve is-",
+          "options": [
+            {
+              "id": "A",
+              "text": "S-shaped",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Delta shaped",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Normal curve type",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bell shaped",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "text": "In an normal adult, the ratio of physiological and anatomical dead space is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "1:3",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "2:1",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1:1",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "3:1",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "text": "Respiratory minute volume in a normal person -",
+          "options": [
+            {
+              "id": "A",
+              "text": "2.1 L/min",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "4.2 L/min",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "1.2 L/min",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "6.0 L/min",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "text": "The most common form of hypoxia is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypoxic",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Stagnant",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Anemic",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Histotoxic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "text": "CO2 affects Respiratory centre via:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Aortic body",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "CSF H+ Concentration",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Carotid body",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Inflation and deflation receptors",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "text": "Hyperbaric oxygenation is useful in all except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gas gangrene",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Nitrogen toxicity",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Carbon mono-oxide poisoning",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cyanotic Congenital heart disease",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "text": "What is Methemoglobin?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fe3+ Hb",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Cu3+ Hb",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Fe2+ Hb",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Cu2+ Hb",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "text": "In which of the following diseases would you expect to find an increase in thickness of the respiratory membrane-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Skeletal abnormalities of the chest",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary edema",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Emphysema",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pulmonary artery thrombosis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "text": "Chemoreceptor mechanism is not triggered in-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Histotoxic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Stagnant hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypoxic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anemic hypoxia",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "text": "Pulmonary surfactant reduces:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alveolar size",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Alveolar radius",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Transpulmonary pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "The surface tension in the Lungs",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "text": "All are true about 2,3 DPG except :",
+          "options": [
+            {
+              "id": "A",
+              "text": "Low affinity of O2 to Hemoglobin",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Altered binding to fetal Hemoglobin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Causes hamburger phenomenon",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "High levels in red cells",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "74",
+          "text": "Lung diffusion capacity is measured with:",
+          "options": [
+            {
+              "id": "A",
+              "text": "O2",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "CO2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "H2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "CO",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "text": "Ventilation perfusion Ratio is maximum in:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Apex of lung",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Base of lung",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Middle lobe of lung",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Post lobe of lung",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "text": "Moderate excercise tachypnea is due to stimulation of which receptor:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Proprioception",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "J receptor",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Baro receptor",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Lung receptor",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "text": "Vital capacity is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tidal Volume + IRV",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "TLC - Residual Volume",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Tidal Volume + ERV",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "IRV+ ERV",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "CO2 is transported in plasma in all forms, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bicarbonate",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "CO",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Carbamine compounds",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dissolved form",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "text": "Oxygen dissociation is increased by all except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Metabolic alkalosis",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Hypercapnia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased temperature",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "2,3 DPG increase",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "text": "Which is seen in high altitude:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Respiratory acidosis",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Respiratory alkalosis",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Metabolic acidosis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Metabolic alkalosis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "text": "Earliest change in high altitude is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decrease in work capacity",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Hyperventillation",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Drowsiness",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Polycythemia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Peripheral chemoreceptors are stimulated maximally by -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Alkalosis",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Cyanide",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypoxia",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Hypocapnia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "text": "A mountaineer ascents 18,000 feet in 2 days without supplemental oxygen. At the height of ascent the changes are all, except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreased volume of inspired O2",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Decreased Barometric pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Decreased PaO2",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased PaCO2",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "text": "True about pulmonary circulation:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulmonary capillaries contain most of the blood volume in lung",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "It has high resistance",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypoxia causes vasoconstriction",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "It receives 50% of cardiac output",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "text": "Decompression sickness is seen in all except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mountainers",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Diver",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Pilot",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Diver and pilot",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "86",
+          "text": "Which of the following is not seen in high altitude climbers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulmonary edema",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreased PaC02",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hyperventilation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bradycardia",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "text": "Central cyanosis is seen if-",
+          "options": [
+            {
+              "id": "A",
+              "text": "O2 saturation < 94%",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Reduced Hb > 5 gm/dL",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Methemoglobin 0.5 gm/dl",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Hb 4 gm%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "text": "Hyperbaric oxygen is dangerous because it -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Enzyme damage",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreases displacement of O2 from Hb",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Is toxic to tissues",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Decreases repiratory drive",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "text": "In high altitude mountain sickness, feature of  pulmonary edema is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increases left ventricular back pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Decreased pulmonary capillary permeability",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased left atrial pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Increased pulmonary capillary pressure",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "text": "Administration of pure O2 to chronically hypoxic patients is dangerous because -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pulmonary edema",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "O2 toxicity",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Convulsions",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Apnea occurs due to hypostimulation of peripheral chemoreceptors",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "text": "Functional residual capacity of lung is defined as -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Volume remaining after forced expiration",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Volume expired after normal expiration",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "ERV+RV",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Tidal volume + volume inspired forcefully",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "text": "Surfactant is-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Contains mucin",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Secreted by bronchial glands",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Necessary for alveolar stability",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Secreted by Type I pneumocytes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "text": "True about Surfactant are all, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Starts to form by 20th week of gestational age",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Deficiency causes RDS in new born",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Composed of cytokeratin",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "It can be used therapeutically",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Physiological effects of emphysema may include all of the following, except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increased vital capacity",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Barrel chest",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Irregular ventilation",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Pulmonary hypertension",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Earliest symptom of acute mountain sickness is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Blurring of vision",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Headache",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Fever",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Nausea and vomiting",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "text": "The stimulation of which of the following causes hyperventilation at high altitude -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Proprioceptors",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Peripheral chemoreceptors",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Vagal afferents",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Central chemoreceptors",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "text": "Which of the following conditions leads to tissue hypoxia without alteration of oxygen content of blood-",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cyanide poisoning",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "CO poisoning",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Respiratory acidosis",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Methemoglobin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "text": "Pulmonary function abnormalities in interstitial lung diseases include all of the following except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Reduced FEV1/FVC ratio",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Normal or Reduced vital capacity",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Reduced total lung capacity",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Reduced diffusion capacity",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "Fetal haemoglobin has all the following characteristic features except -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Present at birth",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Oxygen dissociation curve is shifted to left",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Has alpha and gamma chains",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Strong affinity for 2,3-DPG",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "text": "The type of hemoglobin that has least affinity for 1, 3- Diphosphoglycerate (2,3-DPG) or (2,3-BPG) is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "HbS",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "HbF",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "HbA",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "HbA2",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "text": "Hemoglobin binds to_______molecules of 02 -",
+          "options": [
+            {
+              "id": "A",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "4",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "3",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "text": "Respiratory distress syndrome is due to a defect in the biosynthesis of -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dipalmitoyl serine",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Dipalmitoyl cephaline",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Dipalmitoyl inositol",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Dipalmitoyl lecithine",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "Diffusion of gas in respiratory membrane are all true except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "inversely proportional to thickness of respiratory membrane",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Inversely proportional to molecular weight of the gas",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Inversely proportional to pressure gradient",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "directly proportional to solubility of gas",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "text": "Surfactant production is accelerated by:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Epinephrine",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Insulin",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Iodine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Glucocorticoids",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "text": "Caisson’s disease is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gas embolism",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Amniotic fluid embolism",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Fat embolism",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Tumor embolism",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "Negative intrapleural pressure is due to -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Absorption by lymphatics",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Negative intraalveolar pressure",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Presence of cartilage in the upper airway",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Uniform distribution of surfactant over alveoli",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "text": "The primary direct stimulus for excitation of central chemoreceptors regulating ventilation is -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Decreased C02",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Increased C02",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased H+",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Increased 02",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "text": "Nitrogen narcosis is caused due to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Increase production of nitrous oxide",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Nitrogen inhibits dismutase enzyme",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Increased solubility of nitrogen in nerve cell membrane",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Decrease in oxygen free radicals",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "text": "Depth of inspiration controlled by -",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pneumotaxic center",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Posterior medula",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Apneustic center",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Pons",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "text": "Carbon monoxide poisoning is a type of",
+          "options": [
+            {
+              "id": "A",
+              "text": "Anemic hypoxia",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Histotoxic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Hypoxic hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Stagnant hypoxia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "text": "In caissons disease pain in joint is because of :",
+          "options": [
+            {
+              "id": "A",
+              "text": "CO2",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Nitrogen bubble",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Carbon monoxide",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Oxygen bubble",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "text": "Cyanosis is not seen in -",
+          "options": [
+            {
+              "id": "A",
+              "text": "COPD",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "CHF",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "CO poisoning",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "High altitude",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "text": "Umbilical vein will turn into:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Superior vesical artery",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Meckel diverticulum",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Medial umbilical ligament",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Ligamentum teres hepatis",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "text": "All of the followings are the components of distributive shock, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypovolemic shock",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Septic shock",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Neurogenic shock",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Anaphylactic shock",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "All of the followings cause obstructive shock, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tension pneumothorax",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary embolism",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Heart failure",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Cardiac tamponade",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "text": "Pericyte are present around:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vein",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lymphatic channel",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Capillary",
+              "isCorrect": true
+            },
+            {
+              "id": "D",
+              "text": "Artery",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "text": "All of the followings are vasodilators, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypoxia",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Lactate",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Histamine",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Serotonin",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "text": "Lewis triple response is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Red, flare and wheal",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Wheal, flare and red",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Red, wheal and flare",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Flare, Red and wheal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "text": "All are true in raised Intracranial pressure, except:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hypertension",
+              "isCorrect": false
+            },
+            {
+              "id": "B",
+              "text": "Tachycardia",
+              "isCorrect": true
+            },
+            {
+              "id": "C",
+              "text": "Cheyne stokes breathing",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Bradycardia",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "120",
+          "text": "Hering’s nerve is an afferent nerve for?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Carotid body",
+              "isCorrect": true
+            },
+            {
+              "id": "B",
+              "text": "Aortic sinus",
+              "isCorrect": false
+            },
+            {
+              "id": "C",
+              "text": "Aortic body",
+              "isCorrect": false
+            },
+            {
+              "id": "D",
+              "text": "Heart",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
     }
   }
 }
